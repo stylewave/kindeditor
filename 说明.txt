@@ -1,0 +1,11 @@
+  
+  可以直接调用
+  <script type="text/javascript">
+		    $(function(){
+				call_editor('#news_content','nomal');
+
+		    })
+
+
+      
+		</script>
